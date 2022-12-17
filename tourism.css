@@ -1,0 +1,14 @@
+body{
+background-image:url('https://imgur.com/YRnWWAn.png');
+background-repeat:no repeat-y;
+background-size:cover;
+}
+#rcorners {
+  border-radius: 25px;
+  border: 2px solid white;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
+span.ex1:hover,span.ex1:active {font-size: 105%;font-family: Georgia,serif;}
+a:link{text-decoration: none;}
